@@ -17,7 +17,6 @@ body{
     align-items: center;
     border: white solid 2px;   
     border-radius: 3px; 
-    margin-bottom: 50px;
     margin: 10px 15px;
     background-color: gray;
 }
@@ -157,10 +156,10 @@ body{
     text-align: center;
     border: 3px solid white;
     border-radius: 5px;
-    padding: 3px 7px;
+    padding: 4px;
     text-decoration: none;
     color: white;
-    margin: 25px;
+    margin: 70px;
     margin-bottom: 70px;
 }
 
@@ -232,7 +231,7 @@ body{
 }
 
 .img-wsp {
-    width: 150px; /* Tamanho do ícone do WhatsApp */
+    width: 150px; /* Tamanho do ícone do telefone */
     height: 150px;
     display: block;
 }
