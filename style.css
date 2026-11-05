@@ -33,10 +33,6 @@ body{
     padding: 0 15px;
 }
 
-.nome{
-    color: gray;
-
-}
 
 .textotop{
     border: 1px solid white;
@@ -79,6 +75,10 @@ body{
     border-radius: 5px;
     padding: 10px;
     text-align: justify;
+}
+
+.nome{
+    color: gray;
 }
 
 .sobre{
